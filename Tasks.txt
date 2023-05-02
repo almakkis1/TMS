@@ -1,0 +1,19 @@
+****************** 
+Week 6: Project setup
+******************
+
+Sunday:
+- Finishing the prototype.
+
+Monday:
+- Creating database.
+- Designing the ERD for DB.
+
+Tuesday:
+- Setting up laravel
+
+Wednesday:
+- Creating login & signup pages
+
+Thursday:
+- Review
